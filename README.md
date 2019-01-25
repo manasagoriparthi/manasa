@@ -5,8 +5,10 @@
 ## About
 This repo is used for learning Github.
 ## Repository Tools
-Github(https://github.com/)
- &
-notepad++(https://notepad-plus-plus.org/)
+- Github(https://github.com/)
+- notepad++(https://notepad-plus-plus.org/)
+## Recommended Resources
+- RandalZporter(https://github.com/RandallZPorter/randall-porter)
+- Github (https://github.com/)
 
 
