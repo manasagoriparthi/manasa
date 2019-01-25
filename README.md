@@ -1,6 +1,6 @@
 # manasa
 ## My Repository Links
-- [source file](https://github.com/manasagoriparthi)
+- [source repository](https://github.com/manasagoriparthi/manasa "repository: manasa")
 - [hosted page](https://github.com/manasagoriparthi/manasa/edit/master/README.md)
 ## About
 This repo is used for learning Github.
