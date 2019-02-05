@@ -13,6 +13,6 @@ This repo is used for learning Github.
 - youtube(https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 ## Contributor
 My name is Manasa Goriparthi, and I am from Applied computer science.
-![image](https://plus.google.com/u/0/photos/photo/107692368892163648228/6654638272488273250)
+![image](https://lh3.googleusercontent.com/-5l8VtWFhzwY/XFoDItCviVI/AAAAAAAAApw/GRm7Ne2-W8gCYCo2Lr8jVtCdvPrCXCMMgCJoC/w530-h533-n-rw/IMG-20131020-WA0005.jpg)
 
 
