@@ -13,6 +13,6 @@ This repo is used for learning Github.
 - youtube(https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 ## Contributor
 My name is Manasa Goriparthi, and I am from Applied computer science.
-![image](https://upload.wikimedia.org/wikipedia/commons/6/69/Dog_morphological_variation.png)
+![image](C:\Users\s534782\Pictures\Screenshots\Screenshot (6).png)
 
 
