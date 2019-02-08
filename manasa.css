@@ -1,0 +1,92 @@
+body {
+    padding-top: 5rem;
+  }
+  
+  body, html {
+    height: 100%;
+  }
+  
+  .video-wrapper {
+    width: 100%;
+    background-color: lightblue;
+  }
+  
+  h1
+  {
+    color: black;	
+  }
+  
+  h2
+  {
+    color: black;
+  }
+  
+  col-sm-4
+  {
+  background-color: lightblue;
+  
+  }	
+  
+  #nam
+  {
+    color: lightblue;	
+  }
+  
+  #new
+  {
+    color: lightblue;
+  }
+  
+  .para
+  {
+  color: red;
+
+  p, h1, h2, h3 {color: white}
+
+hr {background-color: white}
+
+
+.fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 66px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+      }
+      
+      /* Add a hover effect if you want */
+      .fa:hover {
+        opacity: 0.7;
+      }
+      
+      /* Set a specific color for each brand */
+      
+      /* Facebook */
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+   
+
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+
+      .btn-outline-success {
+        color: #007bb5;
+        border-color: #007bb5;
+    }
+    .btn-outline-success:hover {
+        color: #dee2e4;
+        border-color: #007bb5;
+        background-color: #007bb5
+    }
+    .flex-container {
+        display: flex;
+      }
+
+
+
