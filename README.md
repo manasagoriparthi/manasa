@@ -3,7 +3,7 @@
 - [source repository](https://github.com/manasagoriparthi/manasa "repository: manasa")
 - [hosted page](https://github.com/manasagoriparthi/manasa/edit/master/README.md)
 ## About
-This repo is used for learning Github.
+This repo is used for learning jquery,java script,ajax.
 ## Repository Tools
 - Github(https://github.com/)
 - notepad++(https://notepad-plus-plus.org/)
