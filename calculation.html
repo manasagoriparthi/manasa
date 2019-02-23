@@ -14,6 +14,7 @@
         crossorigin="anonymous">
 
     <link rel="stylesheet" href="manasa.css">
+    <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.9.1.css">
 
     <title>Manasa Goriparthi</title>
 
@@ -38,6 +39,9 @@
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="calculation.html">calculation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./qtest.html">qtest</a>
                     </li>
                   </ul>
                   <form class="form-inline mt-2 mt-md-0">
@@ -83,6 +87,70 @@
                 </div>
 
             </div>
+            <br>
+            <br>
+            <div class="text-center text-md-left">
+                <h3 class="h1-responsive font-weight-bold text-left my-4">Event Handler</h3>
+                <p>Click the below button to see an Event</p>
+
+                <input type="button" class="btn btn-primary" onclick="sayHello()" value="Click Here" />
+            </div>
+            <br>
+            <br>
+                <div class="text-center text-md-left">
+                    <h3 class="h1-responsive font-weight-bold text-left my-4">jQuery Reponse Event</h3>
+                    <p>One can hide here using jquery.</p>
+
+                    <button class="btn1">Hide</button>
+                    <button class="btn2">Show</button>
+                </div>
+                <br>
+                <br>
+                    <h3 class="h1-responsive font-weight-bold text-left my-4">Simpsons Quotes</h3>
+                    <button id="simpbutt" class="btn btn-primary">Mouse over to see the Event</button>
+                    <p id="simpsons"></p>
+
+        </div>
+
+    </div>
+            
+            <script src="squa.js"></script>
+            <script src="eventhandler.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <script src="https://code.jquery.com/qunit/qunit-2.9.1.js"></script>
+            <script src="ajqury.js"></script>
+            <div>
+                        
+                <script>
+                function loadDoc() {
+
+                    var str="AJAX stands for Asynchronous JavaScript And XML.";
+                  var xhttp = new XMLHttpRequest();
+                  xhttp.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                      document.getElementById("demo").innerHTML =
+                      this.responseText;
+                    }
+                  };
+                  xhttp.open("GET","ajax_info.txt", true);
+                  
+                  xhttp.send();
+                }
+                </script>
+
+
+
+
+    <script>
+        $(document).ready(function () {
+            $(".btn1").click(function () {
+                $("p").hide();
+            });
+            $(".btn2").click(function () {
+                $("p").show();
+            });
+        });
+    </script>
 
         </section>
 
@@ -105,6 +173,16 @@
             window.alert("The Area of circle is: " + area);
         }
     </script>
+    
+    <!-- JQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/js/mdb.min.js"></script>
+
     
 </body>
 </html>
