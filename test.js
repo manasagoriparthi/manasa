@@ -30,6 +30,6 @@ QUnit.test ("TestCircle",function(assert)
 });
 QUnit.test ("TestCircle",function(assert)
 {
-    var res=area(-8);
+    var res=area(-m);
     assert.equal(res, "200.96" ,"area of circle is  200.96");
 });
